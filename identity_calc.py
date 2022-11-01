@@ -102,4 +102,4 @@ print(terms)
 simpleIdentity = simplify_multi(terms)
 print(simpleIdentity)
 
-#input should be able to take powered variables
+# input should be able to take powered variables
