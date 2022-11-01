@@ -17,4 +17,7 @@ Features planned:-
   <li>
     support for trignometry and calculas and their identities
   </li>
+  <li>
+    maybe AI for identifying the identities to use and make its own identities?
+  </li>
 </ol>
